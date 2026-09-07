@@ -1,4 +1,4 @@
 Student Registration Feature
 Name: Dilip B H
 Course: DevOps
-Status: Feature One
+Status: Feature One and Feature Two
